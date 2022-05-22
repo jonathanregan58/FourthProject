@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="46826" started-at="2022-04-27T20:29:11 ICT" finished-at="2022-04-27T20:29:58 ICT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="46826" started-at="2022-04-27T20:29:11 ICT" finished-at="2022-04-27T20:29:58 ICT">
+      <class name="BasicSeleniumConcepts.DrawbacksOfPageFactorySolution">
+        <test-method status="PASS" signature="plainPattern()[pri:0, instance:BasicSeleniumConcepts.DrawbacksOfPageFactorySolution@80503]" name="plainPattern" duration-ms="15762" started-at="2022-04-27T20:29:11 ICT" finished-at="2022-04-27T20:29:27 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- plainPattern -->
+        <test-method status="PASS" signature="plainPatternWithWebDriverWait()[pri:0, instance:BasicSeleniumConcepts.DrawbacksOfPageFactorySolution@80503]" name="plainPatternWithWebDriverWait" duration-ms="9018" started-at="2022-04-27T20:29:27 ICT" finished-at="2022-04-27T20:29:36 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- plainPatternWithWebDriverWait -->
+        <test-method status="PASS" signature="withPageFactory()[pri:0, instance:BasicSeleniumConcepts.DrawbacksOfPageFactorySolution@80503]" name="withPageFactory" duration-ms="11426" started-at="2022-04-27T20:29:36 ICT" finished-at="2022-04-27T20:29:47 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- withPageFactory -->
+        <test-method status="PASS" signature="withPageFactoryWithWebDriverWait()[pri:0, instance:BasicSeleniumConcepts.DrawbacksOfPageFactorySolution@80503]" name="withPageFactoryWithWebDriverWait" duration-ms="10563" started-at="2022-04-27T20:29:47 ICT" finished-at="2022-04-27T20:29:58 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- withPageFactoryWithWebDriverWait -->
+      </class> <!-- BasicSeleniumConcepts.DrawbacksOfPageFactorySolution -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

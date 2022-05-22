@@ -1,0 +1,9 @@
+http://makeseleniumeasy.com/2020/05/24/where-does-pagefactory-suck-selenium-webdriver-java/#PageFactory_with_WebDriverWait_FluentWait
+
+https://www.google.com/search?q=staleelementreferenceexception+visibility&client=ms-android-samsung-ss&sxsrf=APq-WBvXk9VV4PE78y2G9mvig73khYFWKw%3A1651072834453&ei=Ql9pYreOG-nCz7sPrs-l0Ak&oq=staleelementreferenceexception+visibility&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyBAghEAo6BwgjELADECc6BwgAEEcQsAM6BwgAELADEEM6BQgAEMsBOgcIABAKEMsBOgUIIRCgAUoECEEYAFDbB1jKHmDRIGgBcAF4AIAB7AGIAYkMkgEFMC44LjKYAQCgAQHIARHAAQE&sclient=mobile-gws-wiz-serp
+
+https://stackoverflow.com/questions/16166261/selenium-webdriver-how-to-resolve-stale-element-reference-exception
+
+https://stackoverflow.com/questions/12967541/how-to-avoid-staleelementreferenceexception-in-selenium
+
+https://www.youtube.com/watch?v=ZqaA5YhVxHg
